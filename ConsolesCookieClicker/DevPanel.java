@@ -1,7 +1,6 @@
 package ConsolesCookieClicker;
 import java.awt.Font;
 import java.awt.GridLayout;
-
 import javax.swing.JButton;
 import javax.swing.JList;
 import javax.swing.JPanel;
