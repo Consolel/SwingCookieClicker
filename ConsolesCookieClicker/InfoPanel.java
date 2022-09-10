@@ -1,6 +1,5 @@
 package ConsolesCookieClicker;
 import java.awt.BorderLayout;
-
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 public class InfoPanel extends JPanel {
