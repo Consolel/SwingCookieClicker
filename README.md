@@ -1,2 +1,2 @@
 # SwingCookieClicker
-A Java Swing Cookie Clicker Clone 
+A Java Swing cookie clicker clone made by Console. 
