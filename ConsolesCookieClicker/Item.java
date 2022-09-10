@@ -1,7 +1,7 @@
-    package ConsolesCookieClicker;
+package ConsolesCookieClicker;
 import java.io.Serializable;
 public class Item implements Serializable {
-	private int price;
+    private int price;
     private int level;    
     private int amount; 
     private int startingLevel;
