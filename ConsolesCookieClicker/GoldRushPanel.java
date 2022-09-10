@@ -1,12 +1,10 @@
 package ConsolesCookieClicker;
 import java.awt.Font;
 import java.awt.Image;
-
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-
 public class GoldRushPanel extends JPanel {
     private JButton goldClicker; 
     private JLabel cookiesGainedLabel; 
