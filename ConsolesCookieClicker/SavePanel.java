@@ -1,6 +1,5 @@
 package ConsolesCookieClicker;
 import java.awt.GridLayout;
-
 import javax.swing.JButton;
 import javax.swing.JPanel;
 public class SavePanel extends JPanel {
