@@ -1,9 +1,7 @@
 package ConsolesCookieClicker;
 import java.awt.GridLayout;
-
 import javax.swing.JButton;
 import javax.swing.JPanel;
-
 public class StorePanel extends JPanel {
     private JButton buyWorker, buyBuisnessman, buyScientist, buyStand, buyFactory, buyExtraHand;
     private Stats statRec;
